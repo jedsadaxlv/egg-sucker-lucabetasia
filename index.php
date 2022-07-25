@@ -645,7 +645,7 @@ if(!$getitem){
                                             <div class="col-12 col-md-2">
                                                 <div class="block-content text-white pb-20">
                                                     <button type="button" onclick="doLogout()"
-                                                        class="btn btn-lg btn-danger h-grow btn-block">log out</button>
+                                                        class="btn btn-lg btn-danger h-grow btn-block">log ou</button>
                                                 </div>
                                             </div>
                                         </div>
